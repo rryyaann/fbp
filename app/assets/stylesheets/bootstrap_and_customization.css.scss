@@ -1,15 +1,16 @@
 
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 
-$body-bg:                                                   #ecf0f1;
+$body-bg:                                                   #3498db;
 $font-family-sans-serif:                'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $navbar-height:                                        45px;
 $navbar-default-bg:                          white;
-$navbar-default-brand-color:      #c0392b;
+$navbar-default-brand-color:      #3498db;
 $brand-primary:                                    #c0392b;
 $jumbotron-bg:                                         white;
 
 @import 'bootstrap';
+
 
 .center {
      text-align: center;
@@ -18,3 +19,11 @@ $jumbotron-bg:                                         white;
 .navbar-brand {
      font-weight: bold;
 }
+
+.cloudtext {
+	color: #ecf0f1;
+}
+
+
+
+
